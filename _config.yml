@@ -1,0 +1,7 @@
+title: jekylliä käyttävä sivusto
+description: Tervetuloa sivustolleni
+theme: jekyll-theme-cayman
+
+header_pages:
+- index.md
+- viikko2.md
