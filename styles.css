@@ -1,0 +1,17 @@
+/* Tyyli index sivulle. PILVIPALVELUT */
+
+body {
+    background-color: #ac90e4;
+   
+}
+
+h1 {
+    color: #333;
+}
+
+.container {
+    max-width: 550px;
+    margin: 0 auto;
+    position: relative;
+    margin: 100px;
+}
