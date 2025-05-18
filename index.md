@@ -10,3 +10,4 @@ Täältä löytyvät tehtäväpalautukset
 - [Viikko 5 - Teksti](viikko5.md)
 - [Viikko 5 - Sovellus](./vko5/index.html)
 - [Viikko 6](./vko6/index.html)
+- [Harjoitustyö](./harjoitustyo/index.html)
